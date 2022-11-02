@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "auth_provider.homeassistant",
+  "data": {
+    "users": [
+      {
+        "username": "minesweeper",
+        "password": "JDJiJDEyJFNGYlVLeHJ2dGYyT3JVYkpqUDAzenVQSUVONC5vTXoyUzA5MEx1UWxKbjh2YktBaDVtbFNp"
+      }
+    ]
+  }
+}

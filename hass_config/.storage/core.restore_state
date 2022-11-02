@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.restore_state",
+  "data": [
+    {
+      "state": {
+        "entity_id": "person.minesweeper",
+        "state": "unknown",
+        "attributes": {
+          "editable": true,
+          "id": "minesweeper",
+          "user_id": "bacba0aaf0354c4386243aef7946694e",
+          "friendly_name": "minesweeper"
+        },
+        "last_changed": "2022-11-02T18:57:38.582803+00:00",
+        "last_updated": "2022-11-02T18:57:40.365479+00:00",
+        "context": {
+          "id": "01GGWV9JGDA03Z1HGGV7WQZ10M",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-11-02T19:14:06.820295+00:00"
+    }
+  ]
+}

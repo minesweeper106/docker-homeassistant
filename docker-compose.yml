@@ -1,0 +1,15 @@
+version: "2.1"
+services:
+  homeassistant:
+    image: lscr.io/linuxserver/homeassistant:latest
+    container_name: homeassistant
+    network_mode: bridge
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Warsaw
+    volumes:
+      - /Users/lukasz/dev/GitHub/docker-homeassistant/hass_config:/config
+    ports:
+      - 8123:8123 #optional
+    restart: unless-stopped

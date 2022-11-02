@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "minor_version": 1,
+  "key": "person",
+  "data": {
+    "items": [
+      {
+        "name": "minesweeper",
+        "user_id": "bacba0aaf0354c4386243aef7946694e",
+        "device_trackers": [],
+        "id": "minesweeper"
+      }
+    ]
+  }
+}
